@@ -30,7 +30,7 @@
 </tr>
 <tr>
   <th>4</th>
-  <td><a href="https://github.com/ILya2406/Yandex.Practicum/tree/main/1.%20Музыка%20больших%20городов">Сборный проект - 1</a></td>
+  <td><a href="https://github.com/ILya2406/Yandex.Practicum/tree/main/2.%20Исследование%20надежности%20заемщиков">Сборный проект - 1</a></td>
   <td>Нужно изучить рынок российского кинопроката и выявить текущие тренды.</td>
   <td>Python, Pandas, Matplotlib</td>
 </tr>
